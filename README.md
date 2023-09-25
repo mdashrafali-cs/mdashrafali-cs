@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **mdashrafali.cs@gmail.com**
 
-- ⚡ Fun fact **I Think I Am Funny**
+- ⚡ **I Think I Am Classic**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
