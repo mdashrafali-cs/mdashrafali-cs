@@ -1,4 +1,4 @@
-![logo](https://github.com/mdashrafali-cs/mdashrafali-cs/blob/main/banner%20(1).jpg)
+![logo](https://github.com/mdashrafali-cs/mdashrafali-cs/blob/main/banner%20(1).png)
 <h1 align="center">Hi 👋, I'm Md Ashraf Ali</h1>
 <h3 align="center">A passionate Full Stack Java Developer from India</h3>
 
